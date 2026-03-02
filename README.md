@@ -12,7 +12,9 @@ Visa InfoBot is a portable visa-information chatbot. It separates the conversati
 - **General + specific** requirements in one answer
 - Mid-flow country switch + “same-country” nudge
 - Admin sidebar: visa-free/required lists & simple analytics
-- Two interfaces: **Streamlit UI** and **CLI**
+- Two interfaces: **HTML web demo** and **CLI (Command-line Interface)**
+
+Note: HTML web demo is accessible at: edenmandate.com/visa/demo.html
 
 ---
 
@@ -20,7 +22,7 @@ Visa InfoBot is a portable visa-information chatbot. It separates the conversati
 
 ```
 Visa-InfoBot/
-├─ streamlit_app.py # Streamlit UI (primary app)
+├─ visa_demo.html # HTML web interface (primary demo)
 ├─ interface.py # CLI chat (optional)
 ├─ Conversation # JSON config (prompts, countries, visa text) ← required
 ├─ data_loader.py # Helpers for classic intent model
