@@ -14,7 +14,7 @@ Visa InfoBot is a portable visa-information chatbot. It separates the conversati
 - Admin sidebar: visa-free/required lists & simple analytics
 - Two interfaces: **HTML web demo** and **CLI (Command-line Interface)**
 
-Note: HTML web demo is accessible at: [Click here to try the demo](https://edenmonday.com/visa/demo.html)
+Note: HTML web demo is accessible at: [Click here to try the demo](https://edenmandate.com/visa-demo.html)
 
 ---
 
